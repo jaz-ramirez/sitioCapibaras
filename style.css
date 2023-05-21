@@ -1,0 +1,28 @@
+body{
+    background-color: #fffbc6; 
+    color: #ff67aa;
+    font-family: 'Merienda', cursive;
+    
+}
+h1, p{
+    color: #dd73fe;
+}
+h3{
+    font-size: 30px;
+}
+img{
+    width: 300px;
+    height: 200px;
+    border-style:double;
+    border-width: 18px;
+    border-color: #bbffee;
+    padding: 15px;
+    margin: 15px;
+}
+/*
+.color1 {color: #dd73fe;}
+.color2 {color: #ff67aa;}
+.color3 {color: #ffdf70;}
+.color4 {color: #fffbc6;}
+.color5 {color: #defdf5;}
+*/
